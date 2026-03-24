@@ -22,8 +22,8 @@ title: ffm
 email: hello@my-ffm.co.uk
 description: >-
   following along + journalling
-baseurl: "my-ffm" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/threestuff.github.io/" # the subpath of your site, e.g. /blog
+url: "https://threestuff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: threestuff
 
 # Build settings
